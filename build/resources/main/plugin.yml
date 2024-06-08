@@ -1,0 +1,14 @@
+name: kUtilities
+version: '0.0.1'
+main: me.kyles120.kutilities.KUtilities
+api-version: '1.20'
+authors: [Kyles120]
+description: Kyles120 Utilities Plugin
+commands:
+    kUtilities:
+      description: kUtilities info comannd
+      usage: /<command> <args>
+      aliases:
+    kname:
+      description: Change k name
+      usage: /<command> <args>
